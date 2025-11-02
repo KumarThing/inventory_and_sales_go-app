@@ -15,10 +15,11 @@ It allows you to manage products, record sales, calculate total revenue, and sav
 ✅ Simple text-based menu for user interaction
 
 ---
-
+# Run the Program
 ``` 
-Run the Program
+
 go run main.go
+```
 
 ---
 
@@ -39,7 +40,9 @@ go run main.go
 ---
 
 ## 🧠 Example Workflow
+
 ```
+
 > add product
 Enter product name: Laptop
 Enter product price: 900
